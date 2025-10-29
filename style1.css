@@ -234,6 +234,7 @@
     grid-template-columns: 1fr;
     text-align: center;
   }
+  .footer-list h3 {text-align: center; }
   .heading { align-items: center; }
   .social-icons ul { justify-content: center; }
 }
